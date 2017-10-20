@@ -92,9 +92,8 @@
                             <div class="col-inner" data-sr="left">
                                 <div class="section-heading">
                                     {{--<h5>Flat Style Landing Page</h5>--}}
-                                    <h1>Are you an indie founder and worried about paying $$$ for business tools?</h1>
-                                    <p>An indie founder does not require all the features that Mailchimp or Baremetrics
-                                        or Zendesk or Intercom provides. You need only the bare minimum features.</p>
+                                    <h1>Are you an indie SaaS founder and worried about paying $$$ for business tools?</h1>
+                                    <p>An indie founder does not require all the features that Mailchimp or Baremetrics or Zendesk or Intercom provides. Brickbox provides all the essential tools with only the bare minimum features. We are handcrafting a set of tools which will focus solely on providing value to indie founders under one pricing plan. You don't need the clutter of all these enterprise tools.</p>
                                 </div> <!-- .section-heading -->
                                 <div class="section-content">
                                     <a class="btn btn-pink m-y-5" href="#about">Learn More</a>
@@ -126,7 +125,7 @@
                                     </div>
                                     <div class="icon-box-content">
                                         <p>
-                                            Email marketing which is fit for indie developers. You can on-board users,
+                                            Email marketing which is fit for indie SaaS apps. You can on-board users,
                                             set scheduled campaigns, broadcast emails and embed sign up forms.
                                         </p>
                                     </div>
@@ -146,7 +145,7 @@
                                     <div class="icon-box-content">
                                         <p>
                                             You need to serve users - what is better than a live chat support? Embed
-                                            live chat for your SaaS app with a single line of code.
+                                            live chat for your SaaS app with a single line of code. Target your customers and manage leads.
                                         </p>
                                     </div>
                                 </div>
@@ -164,8 +163,8 @@
                                     </div>
                                     <div class="icon-box-content">
                                         <p>
-                                            Don't get messed up in hassles of providing support over emails. A perfectly
-                                            handcrafted service desk for indie SaaS founders - integrate Twitter
+                                            Don't get messed up in hassles of enterprise service desk softwares. We will provide you a perfectly
+                                            handcrafted service desk. With only the essential features, you can now avoid all the clutter and focus on serving your customers - integrate Twitter
                                             mentions and old fashioned email.
                                         </p>
                                     </div>
@@ -294,14 +293,13 @@
                                         <div class="col-xs-12 col-sm-4">
                                             <div class="pricing-table m-t-0-xs-max">
                                                 <div class="pricing-table-header block-invert">
-                                                    <h5 class="pricing-table-caption">Starter</h5>
+                                                    <!-- <h5 class="pricing-table-caption">Starter</h5> -->
                                                     <h2 class="pricing-table-title"><span>$</span>19<span>/ mo.</span></h2>
                                                 </div>
                                                 <div class="pricing-table-content block-light">
                                                     <ul class="pricing-table-list">
                                                         <li><i class="fa fa-check"></i> Up to 500 contacts</li>
-                                                        <li><i class="fa fa-check"></i> Daily backups</li>
-                                                    </ul>
+                                                                                                        </ul>
                                                 </div>
                                             </div> <!-- .pricing-table -->
                                         </div>
@@ -311,14 +309,14 @@
                             <span class="pricing-table-badge">
                               <i class="fa fa-star"></i>
                             </span>
-                                                    <h5 class="pricing-table-caption">With badge</h5>
+                                                    <!-- <h5 class="pricing-table-caption">With badge</h5> -->
                                                     <h2 class="pricing-table-title"><span>$</span>49<span>/ mo.</span>
                                                     </h2>
                                                 </div>
                                                 <div class="pricing-table-content block-light">
                                                     <ul class="pricing-table-list">
                                                         <li><i class="fa fa-check"></i> Up to 5000 contacts</li>
-                                                        <li><i class="fa fa-check"></i> 5 hour backups</li>
+
                                                     </ul>
                                                 </div>
                                             </div> <!-- .pricing-table -->
@@ -326,16 +324,14 @@
                                         <div class="col-xs-12 col-sm-4">
                                             <div class="pricing-table">
                                                 <div class="pricing-table-header block-pink">
-                                                    <h5 class="pricing-table-caption">Icon pricing table</h5>
+                                                    <!-- <h5 class="pricing-table-caption">Icon pricing table</h5> -->
                                                     <h2 class="pricing-table-title"><span>$</span>89<span>/ mo.</span>
                                                     </h2>
                                                 </div>
                                                 <div class="pricing-table-content block-light">
                                                     <ul class="pricing-table-list">
                                                         <li><i class="fa fa-user-plus"></i> Up to 10000 contacts</li>
-                                                        <li><i class="fa fa-envelope"></i> <span class="color-pink">Hourly</span>
-                                                            backups
-                                                        </li>
+
                                                     </ul>
                                                 </div>
                                             </div> <!-- .pricing-table -->
