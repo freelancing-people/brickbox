@@ -13,7 +13,8 @@
     <meta name="author" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-    <meta property="og:description" content="Are You An Indie Founder And Worried About Paying $$$ For Business Tools? An indie founder does not require all the features that Mailchimp or Baremetrics or Zendesk or Intercom provides. You need only the bare minimum features. Brickbox provides all the essential tools with bare minimum features under one pricing plan.">
+    <meta property="og:description"
+          content="Are You An Indie Founder And Worried About Paying $$$ For Business Tools? An indie founder does not require all the features that Mailchimp or Baremetrics or Zendesk or Intercom provides. You need only the bare minimum features. Brickbox provides all the essential tools with bare minimum features under one pricing plan.">
     <meta property="og:image" content="https://brickbox.io/assets/social.png">
 
     <meta property="og:image:height" content="420">
@@ -24,7 +25,8 @@
     <meta property="og:url" content="https://brickbox.io">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:description" content="Are You An Indie Founder And Worried About Paying $$$ For Business Tools? An indie founder does not require all the features that Mailchimp or Baremetrics or Zendesk or Intercom provides. You need only the bare minimum features. Brickbox provides all the essential tools with bare minimum features under one pricing plan.">
+    <meta name="twitter:description"
+          content="Are You An Indie Founder And Worried About Paying $$$ For Business Tools? An indie founder does not require all the features that Mailchimp or Baremetrics or Zendesk or Intercom provides. You need only the bare minimum features. Brickbox provides all the essential tools with bare minimum features under one pricing plan.">
     <meta name="twitter:image" content="https://brickbox.io/assets/social.png">
     <meta name="twitter:site" content="@brickboxio">
     <meta property="twitter:title" content="Brickbox - All business tools to run a SaaS in one pricing plan">
@@ -92,8 +94,19 @@
                             <div class="col-inner" data-sr="left">
                                 <div class="section-heading">
                                     {{--<h5>Flat Style Landing Page</h5>--}}
-                                    <h1>Are you an indie SaaS founder and worried about paying $$$ for business tools?</h1>
-                                    <p>An indie founder does not require all the features that Mailchimp or Baremetrics or Zendesk or Intercom provides. Brickbox provides all the essential tools with only the bare minimum features. We are handcrafting a set of tools which will focus solely on providing value to indie founders under one pricing plan. You don't need the clutter of all these enterprise tools.</p>
+                                    <h2>Are you an indie SaaS founder?</h2>
+                                    <br>
+                                    <h2>Do you spend a lot of $$$ on</h2>
+                                    <ul>
+                                        <li><h3>Intercom</h3></li>
+                                        <li><h3>Content Creation</h3></li>
+                                        <li><h3>Drift</h3></li>
+                                        <li><h3>Mailchimp</h3></li>
+                                        <li><h3>User on-boarding</h3></li>
+                                        <li><h3>Analytics</h3></li>
+                                        <li><h3>Landing Pages</h3></li>
+                                    </ul>
+
                                 </div> <!-- .section-heading -->
                                 <div class="section-content">
                                     <a class="btn btn-pink m-y-5" href="#about">Learn More</a>
@@ -110,6 +123,33 @@
                     </div>
                 </div>
             </div> <!-- #home -->
+
+            <div id="pricing" class="section block-light align-c">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-8 col-xs-offset-2">
+                            <div class="col-inner">
+                                <div class="section-heading">
+                                    <h2>What is Brickbox...?</h2>
+                                </div>
+                                <div class="section-content">
+                                    <p>
+                                        All these tools are generic and enterprise-yyy. You spend $$$ and get a ton of
+                                        features which are not at all focused on you, INDIE founders. We have to hack
+                                        our way through them to achieve a near-perfect experience.
+                                    </p>
+                                    <p>
+                                        <strong>Brickbox is simple...
+                                            a set of apps, that makes it easy and obvious to engage customers. We are
+                                            handcrafting an experience which is developed with a sole focus on INDIE SaaS
+                                            Founders.</strong>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> <!-- #download -->
 
             <div id="about" class="section p-a-0 align-c">
                 <div class="container-fluid p-x-0">
@@ -145,7 +185,8 @@
                                     <div class="icon-box-content">
                                         <p>
                                             You need to serve users - what is better than a live chat support? Embed
-                                            live chat for your SaaS app with a single line of code. Target your customers and manage leads.
+                                            live chat for your SaaS app with a single line of code. Target your
+                                            customers and manage leads.
                                         </p>
                                     </div>
                                 </div>
@@ -159,13 +200,13 @@
                                         <img src="assets/img/icon/diamond.png" alt="" data-sr="bottom">
                                     </div>
                                     <div class="icon-box-heading">
-                                        <h3>Service Desk</h3>
+                                        <h3>Landing Page Builder</h3>
                                     </div>
                                     <div class="icon-box-content">
                                         <p>
-                                            Don't get messed up in hassles of enterprise service desk softwares. We will provide you a perfectly
-                                            handcrafted service desk. With only the essential features, you can now avoid all the clutter and focus on serving your customers - integrate Twitter
-                                            mentions and old fashioned email.
+                                            Don't get messed up in hassles of developing a fresh landing page or paying
+                                            a lot of $$$ for tools like Instapage / Leadpages. Choose from a set of
+                                            templates, enter content and validate your new idea or feature.
                                         </p>
                                     </div>
                                 </div>
@@ -230,7 +271,8 @@
                                         accessible through out the world.
                                     </p>
                                     <p>
-                                        Schedule backups for your database and files. No need to worry if your site loses
+                                        Schedule backups for your database and files. No need to worry if your site
+                                        loses
                                         it's data. We have one click backup downloads and restoration.
                                     </p>
                                     <a class="btn btn-success m-y-5" href="#brief_3">Learn More</a>
@@ -250,7 +292,8 @@
                                 <div class="section-heading">
                                     <h2>Feedback & Surveys</h2>
                                     <p>
-                                        Create surveys for your customers and manage feedback in one consolidated report.
+                                        Create surveys for your customers and manage feedback in one consolidated
+                                        report.
                                     </p>
                                 </div> <!-- .section-heading -->
                                 <div class="section-content">
@@ -264,7 +307,7 @@
                                             the surveys and plan your product roadmap.
                                         </li>
                                     </ul>
-                                    <a class="btn btn-primary m-y-5" href="#pricing">Our Plan</a>
+                                    {{--<a class="btn btn-primary m-y-5" href="#pricing">Our Plan</a>--}}
                                     {{--<a class="btn btn-invert m-y-5" href="#pricing">More Button</a>--}}
                                 </div> <!-- .section-content -->
                             </div>
@@ -279,70 +322,42 @@
                 </div>
             </div> <!-- #brief_3 -->
 
-            <div id="pricing" class="section block-light align-c">
+            <div id="brief_4" class="section block-default align-c-xs-max">
                 <div class="container">
-                    <div class="row">
-                        <div class="col-xs-12">
+                    <div class="row row-table">
+                        <div class="col-sm-6">
                             <div class="col-inner">
                                 <div class="section-heading">
-                                    <h5>Estimated Pricing</h5>
-                                    <h2>Every plan includes all features</h2>
-                                </div>
-                                <div class="section-content m-t-60-sm-min">
-                                    <div class="row">
-                                        <div class="col-xs-12 col-sm-4">
-                                            <div class="pricing-table m-t-0-xs-max">
-                                                <div class="pricing-table-header block-invert">
-                                                    <!-- <h5 class="pricing-table-caption">Starter</h5> -->
-                                                    <h2 class="pricing-table-title"><span>$</span>19<span>/ mo.</span></h2>
-                                                </div>
-                                                <div class="pricing-table-content block-light">
-                                                    <ul class="pricing-table-list">
-                                                        <li><i class="fa fa-check"></i> Up to 500 contacts</li>
-                                                                                                        </ul>
-                                                </div>
-                                            </div> <!-- .pricing-table -->
-                                        </div>
-                                        <div class="col-xs-12 col-sm-4">
-                                            <div class="pricing-table">
-                                                <div class="pricing-table-header block-primary">
-                            <span class="pricing-table-badge">
-                              <i class="fa fa-star"></i>
-                            </span>
-                                                    <!-- <h5 class="pricing-table-caption">With badge</h5> -->
-                                                    <h2 class="pricing-table-title"><span>$</span>49<span>/ mo.</span>
-                                                    </h2>
-                                                </div>
-                                                <div class="pricing-table-content block-light">
-                                                    <ul class="pricing-table-list">
-                                                        <li><i class="fa fa-check"></i> Up to 5000 contacts</li>
-
-                                                    </ul>
-                                                </div>
-                                            </div> <!-- .pricing-table -->
-                                        </div>
-                                        <div class="col-xs-12 col-sm-4">
-                                            <div class="pricing-table">
-                                                <div class="pricing-table-header block-pink">
-                                                    <!-- <h5 class="pricing-table-caption">Icon pricing table</h5> -->
-                                                    <h2 class="pricing-table-title"><span>$</span>89<span>/ mo.</span>
-                                                    </h2>
-                                                </div>
-                                                <div class="pricing-table-content block-light">
-                                                    <ul class="pricing-table-list">
-                                                        <li><i class="fa fa-user-plus"></i> Up to 10000 contacts</li>
-
-                                                    </ul>
-                                                </div>
-                                            </div> <!-- .pricing-table -->
-                                        </div>
-                                    </div>
+                                    <h2>Content Automation</h2>
+                                    <p>
+                                        You are a founder, you don't need to write content and blogs. With our content
+                                        engine, we will do the content work for you. Our team of experts will analyse
+                                        the trends, research the audience and come up with a set of topics.
+                                    </p>
+                                </div> <!-- .section-heading -->
+                                <div class="section-content">
+                                    <ul class="icon-list align-l m-t-30">
+                                        <li><img src="assets/img/icon/chat.png" alt=""> Create Regular blogs
+                                        </li>
+                                        <li><img src="assets/img/icon/pencil.png" alt=""> Email Courses
+                                        </li>
+                                        <li><img src="assets/img/icon/skull.png" alt=""> Lead Magnets
+                                        </li>
+                                    </ul>
+                                    {{--<a class="btn btn-primary m-y-5" href="#brief_2">Learn More</a>--}}
+                                    {{--<a class="btn btn-invert m-y-5" href="#brief_2">More Button</a>--}}
                                 </div> <!-- .section-content -->
+                            </div>
+                        </div>
+                        <div class="col-sm-6 m-t-60-xs-max p-l-60-md-min">
+                            <div class="col-inner clearfix">
+                                <img class="img-responsive float-r-sm-min m-x-auto-xs-max"
+                                     src="assets/img/item/brief-1.png" alt="" data-sr="right">
                             </div>
                         </div>
                     </div>
                 </div>
-            </div> <!-- #download -->
+            </div> <!-- #brief_1 -->
 
             <div id="download" class="section block-primary align-c">
                 <div class="container">
@@ -352,10 +367,11 @@
                                 <div class="section-heading">
                                     <h2>Signup for the Launch Waitlist</h2>
                                     <p>We are currently developing all these awesome features and serve you
-                                    in a couple of months. Till then join the waitlist for updates!</p>
+                                        in a couple of months. Till then join the waitlist for updates!</p>
                                 </div>
                                 <div class="section-content">
-                                    <script async id="_ck_282522" src="https://forms.convertkit.com/282522?v=6"></script>
+                                    <script async id="_ck_282522"
+                                            src="https://forms.convertkit.com/282522?v=6"></script>
 
                                 </div> <!-- .section-content -->
                             </div>
@@ -367,7 +383,8 @@
         </main> <!-- .site-main -->
         <footer class="site-footer block-invert">
             <div class="container">
-                <p class="site-footer-copyright">{{ date('Y') }} © <a href="#" target="_blank">Brickbox.com</a> | All Rights
+                <p class="site-footer-copyright">{{ date('Y') }} © <a href="#" target="_blank">Brickbox.com</a> | All
+                    Rights
                     Reserved.</p>
             </div>
         </footer> <!-- .site-footer -->
@@ -381,15 +398,18 @@
 <script src='assets/js/main.js'></script>
 
 <script type="text/javascript">
-  (function() {
-    window._pa = window._pa || {};
-    // _pa.orderId = "myOrderId"; // OPTIONAL: attach unique conversion identifier to conversions
-    // _pa.revenue = "19.99"; // OPTIONAL: attach dynamic purchase values to conversions
-    // _pa.productId = "myProductId"; // OPTIONAL: Include product ID for use with dynamic ads
-    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
-    pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.marinsm.com/serve/59ed845ec5750f35d1000031.js";
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
-  })();
+    (function () {
+        window._pa = window._pa || {};
+        // _pa.orderId = "myOrderId"; // OPTIONAL: attach unique conversion identifier to conversions
+        // _pa.revenue = "19.99"; // OPTIONAL: attach dynamic purchase values to conversions
+        // _pa.productId = "myProductId"; // OPTIONAL: Include product ID for use with dynamic ads
+        var pa = document.createElement('script');
+        pa.type = 'text/javascript';
+        pa.async = true;
+        pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.marinsm.com/serve/59ed845ec5750f35d1000031.js";
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(pa, s);
+    })();
 </script>
 
 </body>
